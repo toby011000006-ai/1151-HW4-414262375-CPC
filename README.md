@@ -158,3 +158,17 @@ public class AirplaneFlight : MonoBehaviour
         }
     }
 }
+
+
+
+1.  
+
+2. https://github.com/toby011000006-ai/1151-HW4-414262375-CPC 
+
+3. https://youtu.be/HfIUSv97dQk 
+
+
+
+4.從網路上下載飛機及建築物(障礙物)3D模型，位兩者物件附加碰撞箱，編寫腳本:設定兩者初始位置，並使飛機飛向建築物，飛行途中隨機高低起伏(利用 Random Seed)並撥放飛行音效，若飛機碰撞到大樓則撥放爆炸音效並停止，若成功飛越則撥放成功音效。 
+
+ 
